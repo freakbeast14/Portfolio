@@ -1,25 +1,25 @@
 <!-- <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
-</div>
+  <img alt="Logo" src="https://raw.githubusercontent.com/freakbeast14/Portfolio/master/src/images/logo.png" width="100" />
+</div> -->
 <h1 align="center">
-  brittanychiang.com - v4
+  shahil-mohammed.netifly.app - v1
 </h1>
 <p align="center">
-  The fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  The first iteration of <a href="https://shahil-mohammed.netifly.app" target="_blank">shahil-mohammed.netifly.app</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
-<p align="center">
+<!-- <p align="center">
   Previous iterations:
   <a href="https://github.com/bchiang7/v1" target="_blank">v1</a>,
   <a href="https://github.com/bchiang7/v2" target="_blank">v2</a>,
   <a href="https://github.com/bchiang7/bchiang7.github.io" target="_blank">v3</a>
-</p>
+</p> -->
 <p align="center">
-  <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
-    <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
+  <a href="https://app.netlify.com/sites/shahil-mohammed/deploys" target="_blank">
+    <img src="https://api.netlify.com/api/v1/badges/04f7f200-b03c-4fa7-9367-1425f1babe77/deploy-status" alt="Netlify Status" />
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png) 
+<!-- ![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png) 
 
 ## 🚨 Forking this repo (please read!)
 
