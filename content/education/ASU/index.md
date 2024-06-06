@@ -1,6 +1,6 @@
 ---
 date: '2024-05-06'
-degree: 'Masters in Computer Science'
+degree: 'Master of Science in Computer Science'
 university: 'Arizona State University'
 univ: 'ASU'
 location: 'Tempe, AZ'
