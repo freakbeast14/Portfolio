@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a computer science graduate student at Arizona State University actively looking for full-time opportunities.
+        I'm a Software Developer with a Master's in Computer Science from Arizona State University, building scalable full-stack systems and cloud-native applications — and open to new full-time opportunities where I can continue to grow and make an impact.
       </p>
     </>
   );

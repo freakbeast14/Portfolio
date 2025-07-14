@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript', 'Java', 'Python', 'C/C++/C#', 'SQL', 'React.js', 'Angular.js', 'Node.js', '.NET', 'Spring Boot', 'Android', 'AWS', 'Docker', 'Github'];
+  const skills = ['JavaScript', 'Java', 'Python', 'C/C++/C#', 'SQL', 'React.js', 'Angular.js', 'Node.js', 'PHP', 'Laravel', 'Spring Boot', '.NET', 'Android', 'AWS', 'Docker', 'Github'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,14 +136,15 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            Hello! My name is Shahil Mohammed. I am an international Master's student in 
-            Computer Science at Arizona State University actively seeking full-time 
-            opportunities. I am always curious to learn new things, which has led me 
+            Hello! My name is Shahil Mohammed. I am a Software Developer with a
+            Master's degree in Computer Science at Arizona State University. 
+            I am always curious to learn new things, which has led me 
             to develop software, especially on the web.
             </p>
 
             <p>
-              I’ve done several technical internships, some of them include working at{' '}
+              I’ve worked at several organizations, some of them include working at{' '}
+              <a href="https://www.hometreedigital.com/">a service-based company</a>,{' '}
               <a href="https://www.amrock.com/">an insurance company</a>,{' '}
               <a href="https://kaiziq.io/">a start-up</a>, and{' '}
               <a href="https://www.linkedin.com/company/aakankshaecommerce/">a consumer services company</a>.
