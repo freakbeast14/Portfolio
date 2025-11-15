@@ -126,7 +126,28 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript', 'Java', 'Python', 'C/C++/C#', 'SQL', 'React.js', 'Angular.js', 'Node.js', 'PHP', 'Laravel', 'Spring Boot', '.NET', 'Android', 'AWS', 'Docker', 'Github'];
+  const skills = [
+    'JavaScript',
+    'TypeScript',
+    'Java',
+    'Python',
+    'C/C++/C#',
+    'Go',
+    'React.js',
+    'Angular.js',
+    'Node.js',
+    'PHP',
+    'Laravel',
+    'Spring Boot',
+    '.NET',
+    'Django',
+    'SQL / PostgreSQL',
+    'MongoDB',
+    'AWS',
+    'Docker',
+    'Git/GitHub',
+    'gRPC'
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,21 +157,24 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            Hello! My name is Shahil Mohammed. I am a Software Developer with a
-            Master's degree in Computer Science at Arizona State University. 
-            I am always curious to learn new things, which has led me 
-            to develop software, especially on the web.
+              Hello! My name is Shahil Mohammed. I'm a Software Developer with 3+ years of 
+              experience building full-stack applications, cloud-native systems, and AI-powered solutions. 
+              I hold a Master’s degree in Computer Science from Arizona State University, 
+              and I’m driven by curiosity and a passion for creating software that is both impactful and scalable.
             </p>
 
             <p>
-              I’ve worked at several organizations, some of them include working at{' '}
+              I’ve had the opportunity to work across diverse organizations — including{' '}
+              <a href="https://www.profiledm.com/">an IT solutions company</a>,{' '}
               <a href="https://www.hometreedigital.com/">a service-based company</a>,{' '}
-              <a href="https://www.amrock.com/">an insurance company</a>,{' '}
-              <a href="https://kaiziq.io/">a start-up</a>, and{' '}
-              <a href="https://www.linkedin.com/company/aakankshaecommerce/">a consumer services company</a>.
+              <a href="https://www.amrock.com/">an insurance technology firm</a>,{' '}
+              <a href="https://asu.edu/">a major research university</a>,{' '}
+              <a href="https://kaiziq.io/">a fast-moving startup</a>, and{' '}
+              <a href="https://www.linkedin.com/company/aakankshaecommerce/">a consumer services company</a>. 
+              These experiences helped me strengthen my engineering fundamentals and adapt to different product and team environments.
             </p>
 
-            <p>Here are a few technologies I am well versed with:</p>
+            <p>Here are some of the technologies I work with regularly:</p>
           </div>
 
           <ul className="skills-list">

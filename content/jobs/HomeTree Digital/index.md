@@ -7,7 +7,7 @@ range: 'June 2024 - June 2025'
 url: 'https://www.hometreedigital.com/'
 ---
 
-- Architected a SaaS tool to generate data visualization videos, supporting concurrent user sessions using Laravel and React.js.
-- Automated stock market capitalization data retrieval using Python and the Yahoo Finance API.
-- Built a multi-tier e-commerce subscription platform using Stripe and WooCommerce, enabling role-based access control.
-- Developed data pre-processing algorithms to reduce preview generation time and improve video rendering speed.
+- Architected a SaaS platform that combined Laravel on the backend and React on the frontend, ensuring a smooth and intuitive experience for users interacting with data visualizations.
+- Built automated Python-based workflows to regularly collect and process large datasets, helping internal teams work more efficiently without recurring manual steps.
+- Developed an e-commerce subscription system using PHP, Stripe, and WooCommerce, incorporating role-based access control for various subscription plans.
+- Created AI-driven automation agents to handle tasks like broker data retrieval and content scheduling, helping the business streamline repetitive operational processes.
