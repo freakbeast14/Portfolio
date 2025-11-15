@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a Software Developer with a Master's in Computer Science from Arizona State University, building scalable full-stack systems and cloud-native applications — and open to new full-time opportunities where I can continue to grow and make an impact.
+        I’m a Software Developer with 3+ years of experience and a Master’s in Computer Science from Arizona State University, specializing in building scalable full-stack applications, cloud-native systems, and AI-driven automation. I’m passionate about solving complex engineering challenges and open to full-time opportunities where I can grow and make a meaningful impact.
       </p>
     </>
   );

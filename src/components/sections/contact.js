@@ -60,7 +60,7 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I’m actively looking for new opportunities, my inbox is always open. You can email me at <a href={`mailto:${email}`}>shahilmohammed14@gmail.com</a> or give me a call at <b>+1 (832) 620-5379</b>
+        I’m actively looking for new opportunities, my inbox is always open. You can email me at <a href={`mailto:${email}`}>shahilmohammed14786@gmail.com</a> or give me a call at <b>+1 (832) 620-5379</b>
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>

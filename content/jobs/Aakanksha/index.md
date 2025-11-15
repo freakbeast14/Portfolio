@@ -1,9 +1,9 @@
 ---
-date: '2021-10-07'
+date: '2020-10-07'
 title: 'Frontend Developer Intern'
 company: 'Aakanksha'
 location: 'Delhi, India'
-range: 'July - October 2021'
+range: 'July - October 2020'
 url: 'https://www.linkedin.com/company/aakankshaecommerce/'
 ---
 
