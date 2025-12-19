@@ -1,6 +1,6 @@
 ---
 date: '2022-06-15'
-title: 'Full Stack Software Engineer Intern'
+title: 'Full Stack Software Engineer'
 company: 'Apice Tech'
 location: 'Delhi, India'
 range: 'May 2021 - June 2022'
