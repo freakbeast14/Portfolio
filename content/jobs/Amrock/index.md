@@ -1,9 +1,9 @@
 ---
 date: '2023-08-11'
-title: 'Software Engineer Intern'
+title: 'Software Engineer'
 company: 'Amrock'
 location: 'Detroit, MI'
-range: 'May - August 2023'
+range: 'Jan - August 2023'
 url: 'https://www.amrock.com/'
 ---
 
