@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'AWS-Based Face Recognition'
 cover: './elastiface.PNG'
 github: 'https://github.com/freakbeast14/ElastiFace'
