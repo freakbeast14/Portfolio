@@ -63,6 +63,10 @@ const StyledProject = styled.li`
         justify-content: flex-start;
       }
 
+      @media (min-width: 768px) {
+        margin-left: 10%;
+      }
+
       li {
         margin: 0 0 5px 20px;
 
@@ -321,6 +325,7 @@ const Featured = () => {
               }
               tech
               github
+              external
             }
             html
           }
