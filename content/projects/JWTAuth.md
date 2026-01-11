@@ -1,5 +1,5 @@
 ---
-date: '2019-11-12'
+date: '2'
 title: 'Authentication using JWT'
 github: 'https://github.com/freakbeast14/JWTAuthentication'
 tech:

@@ -1,5 +1,5 @@
 ---
-date: '2020-03-27'
+date: '3'
 title: 'Basic Banking System'
 github: 'https://github.com/freakbeast14/BankingSystem'
 tech:

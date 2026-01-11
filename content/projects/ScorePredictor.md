@@ -1,5 +1,5 @@
 ---
-date: '2018-03-10'
+date: '1'
 title: 'Score Prediction'
 github: 'https://github.com/freakbeast14/ScorePredictor'
 tech:

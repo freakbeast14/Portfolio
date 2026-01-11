@@ -1,5 +1,5 @@
 ---
-date: '2024-03-10'
+date: '4'
 title: 'Real-Time Collaborative Data Grids'
 github: 'https://github.com/freakbeast14/SyncGrid'
 tech:
