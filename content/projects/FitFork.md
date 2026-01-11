@@ -1,5 +1,5 @@
 ---
-date: '2023-10-23'
+date: '5'
 title: 'Diet Recommendation App'
 github: 'https://github.com/freakbeast14/FitFork'
 tech:
