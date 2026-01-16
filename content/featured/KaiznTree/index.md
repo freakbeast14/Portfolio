@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '5'
 title: 'Inventory Management System'
 cover: './kaizntree.PNG'
 github: 'https://github.com/freakbeast14/Kaizntree'
