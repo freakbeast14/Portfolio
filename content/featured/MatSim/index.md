@@ -3,7 +3,7 @@ date: '1'
 title: 'Material Stress Simulator'
 cover: './matsim.PNG'
 github: 'https://github.com/freakbeast14/MaterialStressSimulator'
-external: 'https://matsim.onrender.com/'
+external: 'https://matsimapp.onrender.com/'
 tech:
   - React.js
   - TypeScript
