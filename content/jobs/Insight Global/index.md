@@ -1,10 +1,10 @@
 ---
 date: '2025-06-23'
-title: 'Software Developer'
-company: 'Profile DM'
+title: 'Software Developer II'
+company: 'Insight Global'
 location: 'Austin, TX'
 range: 'June 2025 - Present'
-url: 'https://profiledm.com/'
+url: 'https://insightglobal.com/'
 ---
 
 - Improved Java Spring Boot microservices by enhancing their architecture and refining the request flow, enabling the system to scale more smoothly during periods of increased usage.
