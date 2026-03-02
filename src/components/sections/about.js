@@ -165,7 +165,7 @@ const About = () => {
 
             <p>
               I’ve had the opportunity to work across diverse organizations — including{' '}
-              <a href="https://www.profiledm.com/">an IT solutions company</a>,{' '}
+              <a href="https://insightglobal.com/">an IT solutions company</a>,{' '}
               <a href="https://www.hometreedigital.com/">a service-based company</a>,{' '}
               <a href="https://www.amrock.com/">an insurance technology firm</a>,{' '}
               <a href="https://asu.edu/">a major research university</a>,{' '}
