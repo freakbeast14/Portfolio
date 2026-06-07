@@ -7,7 +7,7 @@ range: 'June 2025 - Present'
 url: 'https://insightglobal.com/'
 ---
 
-- Improved Java Spring Boot microservices by enhancing their architecture and refining the request flow, enabling the system to scale more smoothly during periods of increased usage.
-- Strengthened the authentication and authorization layers with updated Spring Security configurations, resulting in a more robust and maintainable access-control system.
-- Introduced an AI-assisted workflow for reviewing pull requests, helping developers receive consistent feedback and reducing repetitive manual effort across the team.
-- Automated CI/CD pipelines using Jenkins and Docker, creating a more reliable deployment process and reducing the need for manual release intervention.
+- Developed and maintained full-stack web applications using Java, Spring Boot, REST APIs, and enterprise development tools, delivering testable, maintainable code.
+- Built and integrated RESTful APIs across Ellucian Colleague/Ethos, Infosilem Campus, and internal systems, improving cross-system data exchange.
+- Developed responsive, accessible front-end features with React.js and JavaScript, enhancing usability for staff and students.
+- Automated recurring imports, batch-processing tasks, and third-party integrations with Java, PowerShell, and Task Scheduler, reducing manual effort and improving stability.
